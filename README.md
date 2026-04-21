@@ -19,7 +19,7 @@ This project implements and compares three forecasting models — **SARIMA**, **
 
 | Model | RMSE (kW) | MAE (kW) | MAPE (%) | Ranking |
 |-------|-----------|----------|----------|---------|
-| **XGBoost** ★ | **0.5234** | **0.3451** | **44.28** | 1° |
+| **XGBoost**  | **0.5234** | **0.3451** | **44.28** | 1° |
 | LSTM | 0.5728 | 0.3965 | 60.74 | 2° |
 | SARIMA | 1.8028 | 1.4813 | 180.05 | 3° |
 
